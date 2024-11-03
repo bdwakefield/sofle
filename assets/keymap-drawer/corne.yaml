@@ -136,11 +136,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LS(LC(Z))
-  - LC(Z)
-  - LC(X)
-  - LC(C)
-  - LC(V)
+  - Sft+Ctl+ Z
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ C
+  - Ctl+ V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -155,10 +155,10 @@ layers:
   - RIGHT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LC(Z)
-  - LC(X)
-  - LC(C)
-  - LC(V)
+  - Ctl+ Z
+  - Ctl+ X
+  - Ctl+ C
+  - Ctl+ V
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - HOME
@@ -186,8 +186,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - LC(LS(ESCAPE))
-  - LS(LG(S))
+  - Ctl+Sft+ ESCAPE
+  - Sft+Gui+ S
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
